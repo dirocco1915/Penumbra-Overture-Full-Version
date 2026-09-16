@@ -248,4 +248,4 @@ This repository serves as the official landing page for Penumbra: Overture. The 
 **Get the most recent version of Penumbra: Overture today!**
 
 ---
-**Last updated:** 2026-09-16 07:32:37 UTC
+**Last updated:** 2026-09-16 13:21:39 UTC
